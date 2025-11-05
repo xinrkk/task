@@ -1,8 +1,5 @@
-# Hi there 👋
-
-## :smile: I am a Chinese university student majoring in computer science.
-
-## :heart: I am a beginner in computer programming. I hope to learn more programming techniques on this platform and participate in developing open-source projects.
-
-[Role model 1](https://github.com/elie222)  
-[Role model 2](https://github.com/arvinxx)
+* **Markdown 学习笔记**
+* **GitHub 学习笔记**
+* **Markdown 练习文档**
+* **[可选] Markdown 进阶笔记**
+* **[可选] 问题解决记录**
