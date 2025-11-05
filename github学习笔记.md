@@ -40,4 +40,4 @@ GitHub 是一个基于 Git 的 **代码托管平台**，开发者可以在上面
 ## 参考资料
 
 1. [廖雪峰教程](https://liaoxuefeng.com/books/git/introduction/index.html)
-3. [知乎教程](https://zhuanlan.zhihu.com/p/337959303)
+2. [知乎教程](https://zhuanlan.zhihu.com/p/337959303)
