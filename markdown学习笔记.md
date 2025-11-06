@@ -5,13 +5,13 @@
 ## 📘学习背景
 
 掌握更清晰美观的文档编辑方法
-
+***
 ## 🏷️学习内容的目录
 
 - markdown基础语法
 - markdown中的代码与表格
 - markdown的常见用途
-
+***
 ## 🧠学习内容
 
 ### 1️⃣markdown基础语法
@@ -98,7 +98,7 @@ print("Hello Markdown!")
 1.相较于传统的word等文档工具，Markdown 不使用工具栏就能实现排版,不被格式所限,增加了输入的效率  
 2.语法相对简单，容易上手  
 3.相较于文档排版,更注重逻辑与结构  
-
+***
 ## 📑参考资料
 
 1. [笔记方法](https://www.playpcesor.com/2022/04/para.html#google_vignette)
