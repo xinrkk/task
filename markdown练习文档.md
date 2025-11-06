@@ -1,5 +1,5 @@
 # markdown练习文档
-
+***
 ## 🏆Geek精神
 1. 热爱与专注
    - 拥有热情，才愿意投入大量时间去钻研，才能有强大的内驱力。passion！！！
@@ -9,7 +9,7 @@
 
 3. 创造与分享
    - 不满足于仅仅使用现有工具，而是希望创造更好的东西；同时也乐于开源共享、帮助他人。
-
+***
 ## 🔍GitHub
 1. GitHub是做什么的？
    - GitHub 是一个基于 Git 的 代码托管平台和开源的协同创作平台
@@ -31,7 +31,7 @@
    - [廖雪峰教程](https://liaoxuefeng.com/books/git/introduction/index.html)
    - [知乎教程](https://zhuanlan.zhihu.com/p/337959303)
    - [chatgpt](https://chatgpt.com/)
-
+***
 ## 🧠学习GitHub遇到的困难
 
 1. 需要翻墙软件，才能打开GitHub网页
@@ -43,7 +43,7 @@
    > copilot译为”副驾驶员“
 
 3. 部分老板教程与新版网页中的布局不同，需要自己探索
-
+***
 ## 📖本文档运用的markdown规则
 
 1. 运用多级标题段落布局
