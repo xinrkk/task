@@ -108,5 +108,5 @@ git reset --hard 提交ID
 ## 🚀参考资料
 
 1. [廖雪峰](https://liaoxuefeng.com/books/git/introduction/index.html)
-2. [图示逻辑]((https://my-note-drawing-bed-1322822796.cos.ap-shanghai.myqcloud.com/picture/202405192337199.png))
+2. [图示逻辑](https://my-note-drawing-bed-1322822796.cos.ap-shanghai.myqcloud.com/picture/202405192337199.png)
 3. [bilibili教程](https://www.bilibili.com/video/BV1Vh1PBmEEk/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=fa477bfbb6c95eecbe18a26a8bebf61e)
