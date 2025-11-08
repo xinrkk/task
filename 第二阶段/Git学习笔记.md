@@ -65,13 +65,13 @@ git pull origin main     # 拉取远程更新
 
 ### 🧾 四、Git 工作流程
 
-> 工作区 (Working Directory)
-     ↓ git add
-暂存区 (Staging Area)
-     ↓ git commit
-本地仓库 (Local Repository)
-     ↓ git push
-远程仓库 (Remote Repository)
+> 工作区 (Working Directory)  
+     ↓ git add  
+暂存区 (Staging Area)  
+     ↓ git commit  
+本地仓库 (Local Repository)  
+     ↓ git push  
+远程仓库 (Remote Repository)  
 
 ### 🌳 五、分支管理
 - 创建与切换
