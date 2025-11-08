@@ -3,13 +3,13 @@
 ***
 
 ## hello.md推送流程
-> git clone https://github.com/xinrkk/task.git
-cd task
-echo "# Hello 康思晟" > hello.md
-git status
-git add hello.md
-git commit -m "add hello.md"
-git push origin main
+> git clone https://github.com/xinrkk/task.git  
+cd task  
+echo "# Hello 康思晟" > hello.md  
+git status  
+git add hello.md  
+git commit -m "add hello.md"  
+git push origin main  
 ***
 ## 关于git bash的思考
 - 我认为对初学者来说，git bash还是有一些麻烦的，命令行操作步骤多、容易出错
