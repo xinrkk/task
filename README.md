@@ -14,7 +14,7 @@
 * **[Git 进阶笔记](https://github.com/xinrkk/task/blob/main/%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5/Git%E8%BF%9B%E9%98%B6%E7%AC%94%E8%AE%B0.md)**
 
 ## 第三阶段任务目录
-* **[静态网页链接](http://127.0.0.1:5500/%E7%BD%91%E9%A1%B5.html)**
+* **[静态网页链接](https://xinrkk.github.io/myweb/)**
 * **[CSSS 学习笔记](https://github.com/xinrkk/task/blob/main/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/CSS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)**
 * **[HTML 学习笔记](https://github.com/xinrkk/task/blob/main/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/HTML%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)**
 * **[Javascrip 学习笔记](https://github.com/xinrkk/task/blob/main/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/Javascript%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)**
