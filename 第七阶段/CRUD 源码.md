@@ -1,6 +1,5 @@
 ## main.go
 
-go
 
 ```
 package main
@@ -110,7 +109,6 @@ func deleteUser(c *gin.Context) {
 
 ## go.mod
 
-text
 
 ```
 module simple-crud
@@ -130,7 +128,7 @@ require (
 
 1. **创建数据库**
 
-sql
+
 
 ```
 CREATE DATABASE test;
@@ -141,7 +139,7 @@ CREATE DATABASE test;
 1. **修改数据库密码**（把 `root:123456` 改成你的密码）
 2. **运行**
 
-bash
+
 
 ```
 go mod tidy
@@ -152,7 +150,7 @@ go run main.go
 
 ## 测试命令
 
-bash
+
 
 ```
 # 创建
@@ -169,4 +167,5 @@ curl -X PUT http://localhost:8080/users/1 -H "Content-Type: application/json" -d
 
 # 删除
 curl -X DELETE http://localhost:8080/users/1
+
 ```
