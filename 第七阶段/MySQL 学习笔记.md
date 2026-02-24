@@ -65,7 +65,6 @@
 
 **1. 一对一关系**
 
-sql
 
 ```
 -- 用户表
@@ -87,8 +86,6 @@ CREATE TABLE user_profiles (
 
 **2. 一对多关系**
 
-sql
-
 ```
 -- 班级表（一）
 CREATE TABLE classes (
@@ -109,7 +106,6 @@ CREATE TABLE students (
 
 **3. 多对多关系**
 
-sql
 
 ```
 -- 学生表
@@ -138,22 +134,22 @@ CREATE TABLE student_courses (
 ### 3.3 SQL 基本操作（CRUD）
 
 **增**
-sql
+
 ```
 INSERT INTO student VALUES (1, '张三', 18);
 ```
 **删**
-sql
+
 ```
 DELETE FROM student WHERE id = 1;
 ```
 **改**
-sql
+
 ```
 UPDATE student SET age = 20 WHERE name = '张三';
 ```
 **查**
-sql
+
 ```
 SELECT * FROM student;
 SELECT name FROM student WHERE age > 18;
